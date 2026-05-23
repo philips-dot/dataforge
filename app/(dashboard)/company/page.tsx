@@ -147,12 +147,10 @@ export default function CompanyPage() {
                 </div>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
                   {tickets.filter(t => t.status === status).map(ticket => (
-                    <motion.div
+                    <div
                       key={ticket.id}
                       draggable
-                      onDragStart={e => e.dataTransfer.setData('ticketId', ticket.id)}
-                      layout
-                      whileHover={{ scale: 1.02 }}
+                      onDragStart={(e: React.DragEvent<HTMLDivElement>) => e.dataTransfer.setData('ticketId', ticket.id)}
                       style={{
                         background: ticket.priority === 'P0' ? 'rgba(239,68,68,0.08)' : 'rgba(255,255,255,0.04)',
                         border: `1px solid ${ticket.priority === 'P0' ? 'rgba(239,68,68,0.2)' : 'rgba(255,255,255,0.08)'}`,
@@ -168,7 +166,7 @@ export default function CompanyPage() {
                       </div>
                       <p style={{ fontSize: 12, color: '#cbd5e1', margin: 0, lineHeight: 1.5 }}>{ticket.title}</p>
                       <div style={{ marginTop: 6, fontSize: 10, color: '#475569' }}>👤 {ticket.assignee}</div>
-                    </motion.div>
+                    </div>
                   ))}
                 </div>
               </div>
