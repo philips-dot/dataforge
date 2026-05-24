@@ -275,7 +275,7 @@ export default function HomePage() {
         {/* Bloc F — Activité récente */}
         {recentActivity.length > 0 && (
           <motion.div variants={item}>
-            <div style={{ fontSize: 14, fontWeight: 700, color: '#64748b', marginBottom: 12, textTransform: 'uppercase', letterSpacing: 1, fontSize: 11 }}>
+            <div style={{ fontSize: 11, fontWeight: 700, color: '#64748b', marginBottom: 12, textTransform: 'uppercase', letterSpacing: 1 }}>
               Activité récente
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
