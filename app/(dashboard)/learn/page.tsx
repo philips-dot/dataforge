@@ -134,7 +134,7 @@ function TrackCard({ track, completedCount }: { track: Track; completedCount: nu
           <Lock size={14} /> Passer Pro pour débloquer
         </div>
       ) : (
-        <Link href={`/learn/${track.id}`} style={{ textDecoration: 'none' }}>
+        <Link href={track.id === 'sql-cost' ? '/learn/sql-course' : `/learn/${track.id}`} style={{ textDecoration: 'none' }}>
           <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} style={{
             background: isStarted
               ? `linear-gradient(135deg, ${c.text}, #4f46e5)`
