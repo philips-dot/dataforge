@@ -1,11 +1,12 @@
 'use client'
 
-import { useState, useEffect, useCallback } from 'react'
+import React, { useState, useEffect, useCallback } from 'react'
 import dynamic from 'next/dynamic'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useDuckDB } from '@/hooks/use-duckdb'
 import type { QueryResult } from '@/hooks/use-duckdb'
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MonacoEditor = dynamic(() => import('@monaco-editor/react'), {
   ssr: false,
   loading: () => (
@@ -13,7 +14,7 @@ const MonacoEditor = dynamic(() => import('@monaco-editor/react'), {
       Chargement de l&apos;éditeur…
     </div>
   ),
-})
+}) as React.ComponentType<any>
 
 interface SQLEditorLiveProps {
   starterSQL: string
@@ -116,9 +117,9 @@ export function SQLEditorLive({
         <MonacoEditor
           language="sql"
           value={sql}
-          onChange={v => setSQL(v ?? '')}
+          onChange={(v: string | undefined) => setSQL(v ?? '')}
           theme="vs-dark"
-          onMount={(_, monaco) => {
+          onMount={(_: unknown, monaco: any) => {
             monaco.editor.defineTheme('df-dark', {
               base: 'vs-dark',
               inherit: true,
