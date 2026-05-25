@@ -123,19 +123,20 @@ async function initDuckDB(): Promise<void> {
 
   const conn = await db.connect()
 
-  // Charger les données depuis /public/data/*.json
-  await conn.query(`
-    CREATE TABLE IF NOT EXISTS orders AS
-    SELECT * FROM read_json_auto('/data/orders.json')
-  `)
-  await conn.query(`
-    CREATE TABLE IF NOT EXISTS sessions AS
-    SELECT * FROM read_json_auto('/data/sessions.json')
-  `)
-  await conn.query(`
-    CREATE TABLE IF NOT EXISTS users AS
-    SELECT * FROM read_json_auto('/data/users.json')
-  `)
+  // DuckDB-WASM tourne dans le navigateur : il faut d'abord
+  // télécharger les fichiers via fetch(), les enregistrer dans
+  // le système de fichiers virtuel de DuckDB, puis les lire.
+  const files = ['orders.json', 'sessions.json', 'users.json']
+  await Promise.all(files.map(async (file) => {
+    const res = await fetch(`/data/${file}`)
+    if (!res.ok) throw new Error(`Impossible de charger ${file} (${res.status})`)
+    const buffer = await res.arrayBuffer()
+    await db.registerFileBuffer(file, new Uint8Array(buffer))
+  }))
+
+  await conn.query(`CREATE TABLE IF NOT EXISTS orders   AS SELECT * FROM read_json_auto('orders.json')`)
+  await conn.query(`CREATE TABLE IF NOT EXISTS sessions AS SELECT * FROM read_json_auto('sessions.json')`)
+  await conn.query(`CREATE TABLE IF NOT EXISTS users    AS SELECT * FROM read_json_auto('users.json')`)
 
   globalDB = db
   globalConn = conn
