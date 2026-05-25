@@ -18,7 +18,11 @@
     "lucide-react": "^0.452.0",
     "clsx": "^2.1.1",
     "zustand": "^5.0.0",
-    "recharts": "^2.13.0"
+    "recharts": "^2.13.0",
+    "@google-cloud/bigquery": "^7.9.0",
+    "@monaco-editor/react": "^4.6.0",
+    "@duckdb/duckdb-wasm": "^1.29.0",
+    "zod": "^3.23.0"
   },
   "devDependencies": {
     "typescript": "^5.6.0",

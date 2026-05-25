@@ -1,0 +1,1002 @@
+[
+  {
+    "user_id": "usr_000001",
+    "email": "user1@shopstream.io",
+    "country": "DE",
+    "preferred_device": "tablet",
+    "signup_date": "2024-10-26",
+    "lifetime_value": 1361.71,
+    "churned": false,
+    "total_orders": 15
+  },
+  {
+    "user_id": "usr_000002",
+    "email": "user2@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-05-27",
+    "lifetime_value": 676.41,
+    "churned": false,
+    "total_orders": 3
+  },
+  {
+    "user_id": "usr_000003",
+    "email": "user3@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-07-07",
+    "lifetime_value": 1200.83,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000004",
+    "email": "user4@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-04-15",
+    "lifetime_value": 1181.96,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000005",
+    "email": "user5@shopstream.io",
+    "country": "DE",
+    "preferred_device": "tablet",
+    "signup_date": "2023-08-27",
+    "lifetime_value": 1962.33,
+    "churned": false,
+    "total_orders": 7
+  },
+  {
+    "user_id": "usr_000006",
+    "email": "user6@shopstream.io",
+    "country": "UK",
+    "preferred_device": "tablet",
+    "signup_date": "2024-09-06",
+    "lifetime_value": 67.65,
+    "churned": false,
+    "total_orders": 7
+  },
+  {
+    "user_id": "usr_000007",
+    "email": "user7@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-05-08",
+    "lifetime_value": 713.73,
+    "churned": false,
+    "total_orders": 3
+  },
+  {
+    "user_id": "usr_000008",
+    "email": "user8@shopstream.io",
+    "country": "FR",
+    "preferred_device": "desktop",
+    "signup_date": "2024-01-05",
+    "lifetime_value": 1847.29,
+    "churned": false,
+    "total_orders": 5
+  },
+  {
+    "user_id": "usr_000009",
+    "email": "user9@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-01-11",
+    "lifetime_value": 1298.03,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000010",
+    "email": "user10@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-06-06",
+    "lifetime_value": 621.56,
+    "churned": false,
+    "total_orders": 13
+  },
+  {
+    "user_id": "usr_000011",
+    "email": "user11@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-10-04",
+    "lifetime_value": 614.88,
+    "churned": false,
+    "total_orders": 11
+  },
+  {
+    "user_id": "usr_000012",
+    "email": "user12@shopstream.io",
+    "country": "ES",
+    "preferred_device": "desktop",
+    "signup_date": "2023-05-12",
+    "lifetime_value": 126.67,
+    "churned": false,
+    "total_orders": 10
+  },
+  {
+    "user_id": "usr_000013",
+    "email": "user13@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2023-03-13",
+    "lifetime_value": 1113.41,
+    "churned": false,
+    "total_orders": 7
+  },
+  {
+    "user_id": "usr_000014",
+    "email": "user14@shopstream.io",
+    "country": "ES",
+    "preferred_device": "desktop",
+    "signup_date": "2024-12-09",
+    "lifetime_value": 593.87,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000015",
+    "email": "user15@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-04-20",
+    "lifetime_value": 663.59,
+    "churned": false,
+    "total_orders": 13
+  },
+  {
+    "user_id": "usr_000016",
+    "email": "user16@shopstream.io",
+    "country": "IT",
+    "preferred_device": "mobile",
+    "signup_date": "2023-01-09",
+    "lifetime_value": 1833.55,
+    "churned": false,
+    "total_orders": 19
+  },
+  {
+    "user_id": "usr_000017",
+    "email": "user17@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-10-28",
+    "lifetime_value": 731.33,
+    "churned": false,
+    "total_orders": 18
+  },
+  {
+    "user_id": "usr_000018",
+    "email": "user18@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-08-25",
+    "lifetime_value": 119.94,
+    "churned": false,
+    "total_orders": 5
+  },
+  {
+    "user_id": "usr_000019",
+    "email": "user19@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2024-09-15",
+    "lifetime_value": 162.68,
+    "churned": false,
+    "total_orders": 20
+  },
+  {
+    "user_id": "usr_000020",
+    "email": "user20@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-04-05",
+    "lifetime_value": 409.56,
+    "churned": false,
+    "total_orders": 18
+  },
+  {
+    "user_id": "usr_000021",
+    "email": "user21@shopstream.io",
+    "country": "FR",
+    "preferred_device": "desktop",
+    "signup_date": "2024-09-15",
+    "lifetime_value": 54.37,
+    "churned": true,
+    "total_orders": 10
+  },
+  {
+    "user_id": "usr_000022",
+    "email": "user22@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-10-25",
+    "lifetime_value": 744.11,
+    "churned": true,
+    "total_orders": 14
+  },
+  {
+    "user_id": "usr_000023",
+    "email": "user23@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-12-17",
+    "lifetime_value": 1989.17,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000024",
+    "email": "user24@shopstream.io",
+    "country": "FR",
+    "preferred_device": "desktop",
+    "signup_date": "2023-05-12",
+    "lifetime_value": 1389.24,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000025",
+    "email": "user25@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-02-02",
+    "lifetime_value": 1396.79,
+    "churned": false,
+    "total_orders": 2
+  },
+  {
+    "user_id": "usr_000026",
+    "email": "user26@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-04-06",
+    "lifetime_value": 860.02,
+    "churned": false,
+    "total_orders": 5
+  },
+  {
+    "user_id": "usr_000027",
+    "email": "user27@shopstream.io",
+    "country": "FR",
+    "preferred_device": "tablet",
+    "signup_date": "2024-05-29",
+    "lifetime_value": 24.71,
+    "churned": false,
+    "total_orders": 8
+  },
+  {
+    "user_id": "usr_000028",
+    "email": "user28@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2023-05-03",
+    "lifetime_value": 1548.58,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000029",
+    "email": "user29@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-12-22",
+    "lifetime_value": 1559.43,
+    "churned": false,
+    "total_orders": 9
+  },
+  {
+    "user_id": "usr_000030",
+    "email": "user30@shopstream.io",
+    "country": "FR",
+    "preferred_device": "tablet",
+    "signup_date": "2023-03-25",
+    "lifetime_value": 1594.93,
+    "churned": false,
+    "total_orders": 18
+  },
+  {
+    "user_id": "usr_000031",
+    "email": "user31@shopstream.io",
+    "country": "UK",
+    "preferred_device": "desktop",
+    "signup_date": "2024-02-07",
+    "lifetime_value": 1384.59,
+    "churned": false,
+    "total_orders": 20
+  },
+  {
+    "user_id": "usr_000032",
+    "email": "user32@shopstream.io",
+    "country": "IT",
+    "preferred_device": "mobile",
+    "signup_date": "2023-05-08",
+    "lifetime_value": 621.88,
+    "churned": false,
+    "total_orders": 0
+  },
+  {
+    "user_id": "usr_000033",
+    "email": "user33@shopstream.io",
+    "country": "FR",
+    "preferred_device": "desktop",
+    "signup_date": "2024-05-28",
+    "lifetime_value": 1249.01,
+    "churned": false,
+    "total_orders": 14
+  },
+  {
+    "user_id": "usr_000034",
+    "email": "user34@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-03-23",
+    "lifetime_value": 1286.73,
+    "churned": false,
+    "total_orders": 18
+  },
+  {
+    "user_id": "usr_000035",
+    "email": "user35@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-02-22",
+    "lifetime_value": 231.24,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000036",
+    "email": "user36@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2023-03-25",
+    "lifetime_value": 895.03,
+    "churned": false,
+    "total_orders": 7
+  },
+  {
+    "user_id": "usr_000037",
+    "email": "user37@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-07-26",
+    "lifetime_value": 1880.92,
+    "churned": false,
+    "total_orders": 0
+  },
+  {
+    "user_id": "usr_000038",
+    "email": "user38@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2024-09-10",
+    "lifetime_value": 594.09,
+    "churned": false,
+    "total_orders": 11
+  },
+  {
+    "user_id": "usr_000039",
+    "email": "user39@shopstream.io",
+    "country": "DE",
+    "preferred_device": "desktop",
+    "signup_date": "2024-06-05",
+    "lifetime_value": 1733.3,
+    "churned": false,
+    "total_orders": 17
+  },
+  {
+    "user_id": "usr_000040",
+    "email": "user40@shopstream.io",
+    "country": "DE",
+    "preferred_device": "desktop",
+    "signup_date": "2023-10-08",
+    "lifetime_value": 1169.75,
+    "churned": false,
+    "total_orders": 9
+  },
+  {
+    "user_id": "usr_000041",
+    "email": "user41@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-10-27",
+    "lifetime_value": 1126.53,
+    "churned": true,
+    "total_orders": 8
+  },
+  {
+    "user_id": "usr_000042",
+    "email": "user42@shopstream.io",
+    "country": "DE",
+    "preferred_device": "desktop",
+    "signup_date": "2023-12-13",
+    "lifetime_value": 433.03,
+    "churned": false,
+    "total_orders": 13
+  },
+  {
+    "user_id": "usr_000043",
+    "email": "user43@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-04-15",
+    "lifetime_value": 64.13,
+    "churned": true,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000044",
+    "email": "user44@shopstream.io",
+    "country": "FR",
+    "preferred_device": "desktop",
+    "signup_date": "2023-07-27",
+    "lifetime_value": 534.37,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000045",
+    "email": "user45@shopstream.io",
+    "country": "FR",
+    "preferred_device": "tablet",
+    "signup_date": "2023-02-11",
+    "lifetime_value": 208.51,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000046",
+    "email": "user46@shopstream.io",
+    "country": "DE",
+    "preferred_device": "tablet",
+    "signup_date": "2024-11-11",
+    "lifetime_value": 1924.57,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000047",
+    "email": "user47@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-02-18",
+    "lifetime_value": 1569.28,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000048",
+    "email": "user48@shopstream.io",
+    "country": "UK",
+    "preferred_device": "tablet",
+    "signup_date": "2023-08-29",
+    "lifetime_value": 1145.22,
+    "churned": false,
+    "total_orders": 11
+  },
+  {
+    "user_id": "usr_000049",
+    "email": "user49@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-04-04",
+    "lifetime_value": 743.07,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000050",
+    "email": "user50@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2024-01-14",
+    "lifetime_value": 337.01,
+    "churned": false,
+    "total_orders": 10
+  },
+  {
+    "user_id": "usr_000051",
+    "email": "user51@shopstream.io",
+    "country": "UK",
+    "preferred_device": "tablet",
+    "signup_date": "2024-06-22",
+    "lifetime_value": 314.38,
+    "churned": false,
+    "total_orders": 2
+  },
+  {
+    "user_id": "usr_000052",
+    "email": "user52@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2024-11-11",
+    "lifetime_value": 16.14,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000053",
+    "email": "user53@shopstream.io",
+    "country": "IT",
+    "preferred_device": "mobile",
+    "signup_date": "2024-06-18",
+    "lifetime_value": 1906.2,
+    "churned": false,
+    "total_orders": 9
+  },
+  {
+    "user_id": "usr_000054",
+    "email": "user54@shopstream.io",
+    "country": "IT",
+    "preferred_device": "desktop",
+    "signup_date": "2024-04-09",
+    "lifetime_value": 330.95,
+    "churned": false,
+    "total_orders": 15
+  },
+  {
+    "user_id": "usr_000055",
+    "email": "user55@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-09-20",
+    "lifetime_value": 597.85,
+    "churned": false,
+    "total_orders": 19
+  },
+  {
+    "user_id": "usr_000056",
+    "email": "user56@shopstream.io",
+    "country": "ES",
+    "preferred_device": "tablet",
+    "signup_date": "2024-04-27",
+    "lifetime_value": 1063.85,
+    "churned": false,
+    "total_orders": 17
+  },
+  {
+    "user_id": "usr_000057",
+    "email": "user57@shopstream.io",
+    "country": "UK",
+    "preferred_device": "desktop",
+    "signup_date": "2024-05-15",
+    "lifetime_value": 1901.32,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000058",
+    "email": "user58@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2023-12-28",
+    "lifetime_value": 781.52,
+    "churned": false,
+    "total_orders": 19
+  },
+  {
+    "user_id": "usr_000059",
+    "email": "user59@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-08-18",
+    "lifetime_value": 1746.04,
+    "churned": false,
+    "total_orders": 14
+  },
+  {
+    "user_id": "usr_000060",
+    "email": "user60@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-05-22",
+    "lifetime_value": 1282.73,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000061",
+    "email": "user61@shopstream.io",
+    "country": "FR",
+    "preferred_device": "tablet",
+    "signup_date": "2023-07-23",
+    "lifetime_value": 234.24,
+    "churned": true,
+    "total_orders": 2
+  },
+  {
+    "user_id": "usr_000062",
+    "email": "user62@shopstream.io",
+    "country": "DE",
+    "preferred_device": "tablet",
+    "signup_date": "2024-08-01",
+    "lifetime_value": 1703.92,
+    "churned": false,
+    "total_orders": 3
+  },
+  {
+    "user_id": "usr_000063",
+    "email": "user63@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-05-05",
+    "lifetime_value": 1280.14,
+    "churned": false,
+    "total_orders": 6
+  },
+  {
+    "user_id": "usr_000064",
+    "email": "user64@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-07-31",
+    "lifetime_value": 1009.48,
+    "churned": false,
+    "total_orders": 13
+  },
+  {
+    "user_id": "usr_000065",
+    "email": "user65@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-10-31",
+    "lifetime_value": 1442.3,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000066",
+    "email": "user66@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-10-02",
+    "lifetime_value": 624.15,
+    "churned": false,
+    "total_orders": 13
+  },
+  {
+    "user_id": "usr_000067",
+    "email": "user67@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-07-05",
+    "lifetime_value": 1048.63,
+    "churned": false,
+    "total_orders": 10
+  },
+  {
+    "user_id": "usr_000068",
+    "email": "user68@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-04-23",
+    "lifetime_value": 686.82,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000069",
+    "email": "user69@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-09-27",
+    "lifetime_value": 751.03,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000070",
+    "email": "user70@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-02-15",
+    "lifetime_value": 826.71,
+    "churned": false,
+    "total_orders": 5
+  },
+  {
+    "user_id": "usr_000071",
+    "email": "user71@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2023-06-02",
+    "lifetime_value": 1268.45,
+    "churned": false,
+    "total_orders": 4
+  },
+  {
+    "user_id": "usr_000072",
+    "email": "user72@shopstream.io",
+    "country": "UK",
+    "preferred_device": "desktop",
+    "signup_date": "2023-01-13",
+    "lifetime_value": 1837.38,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000073",
+    "email": "user73@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-01-05",
+    "lifetime_value": 254.01,
+    "churned": false,
+    "total_orders": 3
+  },
+  {
+    "user_id": "usr_000074",
+    "email": "user74@shopstream.io",
+    "country": "UK",
+    "preferred_device": "desktop",
+    "signup_date": "2024-04-17",
+    "lifetime_value": 1922.49,
+    "churned": false,
+    "total_orders": 7
+  },
+  {
+    "user_id": "usr_000075",
+    "email": "user75@shopstream.io",
+    "country": "DE",
+    "preferred_device": "tablet",
+    "signup_date": "2024-12-29",
+    "lifetime_value": 292.02,
+    "churned": false,
+    "total_orders": 3
+  },
+  {
+    "user_id": "usr_000076",
+    "email": "user76@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-05-16",
+    "lifetime_value": 1977.75,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000077",
+    "email": "user77@shopstream.io",
+    "country": "DE",
+    "preferred_device": "desktop",
+    "signup_date": "2024-12-17",
+    "lifetime_value": 78.33,
+    "churned": false,
+    "total_orders": 11
+  },
+  {
+    "user_id": "usr_000078",
+    "email": "user78@shopstream.io",
+    "country": "FR",
+    "preferred_device": "desktop",
+    "signup_date": "2024-04-30",
+    "lifetime_value": 1594.13,
+    "churned": false,
+    "total_orders": 16
+  },
+  {
+    "user_id": "usr_000079",
+    "email": "user79@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2024-08-16",
+    "lifetime_value": 1893.1,
+    "churned": false,
+    "total_orders": 13
+  },
+  {
+    "user_id": "usr_000080",
+    "email": "user80@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2023-01-19",
+    "lifetime_value": 566.72,
+    "churned": false,
+    "total_orders": 5
+  },
+  {
+    "user_id": "usr_000081",
+    "email": "user81@shopstream.io",
+    "country": "IT",
+    "preferred_device": "desktop",
+    "signup_date": "2024-09-18",
+    "lifetime_value": 882.85,
+    "churned": false,
+    "total_orders": 17
+  },
+  {
+    "user_id": "usr_000082",
+    "email": "user82@shopstream.io",
+    "country": "ES",
+    "preferred_device": "tablet",
+    "signup_date": "2024-03-17",
+    "lifetime_value": 1807.54,
+    "churned": true,
+    "total_orders": 10
+  },
+  {
+    "user_id": "usr_000083",
+    "email": "user83@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-07-30",
+    "lifetime_value": 481.21,
+    "churned": false,
+    "total_orders": 9
+  },
+  {
+    "user_id": "usr_000084",
+    "email": "user84@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-10-27",
+    "lifetime_value": 1779,
+    "churned": false,
+    "total_orders": 8
+  },
+  {
+    "user_id": "usr_000085",
+    "email": "user85@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-08-15",
+    "lifetime_value": 1346.64,
+    "churned": false,
+    "total_orders": 15
+  },
+  {
+    "user_id": "usr_000086",
+    "email": "user86@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2024-03-11",
+    "lifetime_value": 1620.51,
+    "churned": false,
+    "total_orders": 2
+  },
+  {
+    "user_id": "usr_000087",
+    "email": "user87@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2023-08-01",
+    "lifetime_value": 931.89,
+    "churned": false,
+    "total_orders": 20
+  },
+  {
+    "user_id": "usr_000088",
+    "email": "user88@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-11-12",
+    "lifetime_value": 419.28,
+    "churned": false,
+    "total_orders": 15
+  },
+  {
+    "user_id": "usr_000089",
+    "email": "user89@shopstream.io",
+    "country": "ES",
+    "preferred_device": "desktop",
+    "signup_date": "2023-06-03",
+    "lifetime_value": 742.41,
+    "churned": false,
+    "total_orders": 12
+  },
+  {
+    "user_id": "usr_000090",
+    "email": "user90@shopstream.io",
+    "country": "FR",
+    "preferred_device": "mobile",
+    "signup_date": "2023-12-06",
+    "lifetime_value": 1380.41,
+    "churned": false,
+    "total_orders": 17
+  },
+  {
+    "user_id": "usr_000091",
+    "email": "user91@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2023-02-18",
+    "lifetime_value": 912.83,
+    "churned": true,
+    "total_orders": 3
+  },
+  {
+    "user_id": "usr_000092",
+    "email": "user92@shopstream.io",
+    "country": "DE",
+    "preferred_device": "mobile",
+    "signup_date": "2024-12-07",
+    "lifetime_value": 930.52,
+    "churned": false,
+    "total_orders": 4
+  },
+  {
+    "user_id": "usr_000093",
+    "email": "user93@shopstream.io",
+    "country": "ES",
+    "preferred_device": "mobile",
+    "signup_date": "2024-05-20",
+    "lifetime_value": 130.17,
+    "churned": false,
+    "total_orders": 18
+  },
+  {
+    "user_id": "usr_000094",
+    "email": "user94@shopstream.io",
+    "country": "FR",
+    "preferred_device": "tablet",
+    "signup_date": "2024-09-19",
+    "lifetime_value": 1697.66,
+    "churned": false,
+    "total_orders": 20
+  },
+  {
+    "user_id": "usr_000095",
+    "email": "user95@shopstream.io",
+    "country": "UK",
+    "preferred_device": "tablet",
+    "signup_date": "2023-03-22",
+    "lifetime_value": 510.12,
+    "churned": false,
+    "total_orders": 11
+  },
+  {
+    "user_id": "usr_000096",
+    "email": "user96@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-05-02",
+    "lifetime_value": 605.88,
+    "churned": true,
+    "total_orders": 0
+  },
+  {
+    "user_id": "usr_000097",
+    "email": "user97@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-12-13",
+    "lifetime_value": 1296.73,
+    "churned": false,
+    "total_orders": 18
+  },
+  {
+    "user_id": "usr_000098",
+    "email": "user98@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2024-02-21",
+    "lifetime_value": 156.76,
+    "churned": false,
+    "total_orders": 15
+  },
+  {
+    "user_id": "usr_000099",
+    "email": "user99@shopstream.io",
+    "country": "UK",
+    "preferred_device": "mobile",
+    "signup_date": "2023-12-31",
+    "lifetime_value": 1490.33,
+    "churned": false,
+    "total_orders": 1
+  },
+  {
+    "user_id": "usr_000100",
+    "email": "user100@shopstream.io",
+    "country": "IT",
+    "preferred_device": "desktop",
+    "signup_date": "2023-10-19",
+    "lifetime_value": 600.91,
+    "churned": false,
+    "total_orders": 13
+  }
+]
